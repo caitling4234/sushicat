@@ -14,7 +14,7 @@ You play as a sushi-loving cat who must jump across obstacles, collect sushi, an
 | Feature | Description |
 |----------|--------------|
 | **Genre** | 2D Platformer |
-| **Language** | TypeScript / Blocks (MakeCode Arcade) |
+| **Language** | python / Blocks (MakeCode Arcade) |
 | **Objective** | Jump through sushi-themed levels collecting rolls and avoiding obstacles |
 | **Core Mechanics** | Jump physics, collision detection, level progression, scoring system |
 | **Audience** | Casual players & learners experimenting with arcade-style games |
