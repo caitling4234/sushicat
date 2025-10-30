@@ -23,8 +23,8 @@ You play as a sushi-loving cat who must jump across obstacles, collect sushi, an
 	
 ## Technologies
 Project is created with:
-## 🎮 Play the Game
-👉 [Play in MakeCode Arcade]https://makecode.com/_LeRc0cambPoT
+##  Play the Game
+ [Play in MakeCode Arcade]https://makecode.com/_LeRc0cambPoT
 
 You can **import this project** by uploading the file [`sushicat**`](./sushicat1.png) into MakeCode Arcade:
 1. Go to https://arcade.makecode.com/
